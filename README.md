@@ -45,6 +45,3 @@ This is a serverless raffle application using AWS serverless services. The app c
 
 For a more detailed breakdown of how the application works, including the exact steps and flow of data, please refer to [this document](https://docs.google.com/spreadsheets/d/1tjw9IJnE3Nu2yNqW-8fJCusx3fskd9W87_LyrrLADKk/edit?usp=sharing).
 
----
-
-This README provides an overview of your serverless raffle application, detailing its functionality, architecture, and workflow.
